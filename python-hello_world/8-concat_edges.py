@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-word = "object-oriented programming with Python"
-print(word[0:26] + word[26:39])
+str1 = "object-oriented programming with Python"
+print(str1)
